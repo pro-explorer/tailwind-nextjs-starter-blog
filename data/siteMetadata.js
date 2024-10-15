@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: "Let's take a tour Cape town!",
+  author: 'Pro',
+  headerTitle: 'SA Travelcations',
+  description: 'Tailor-made Travel Experiences for You',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -19,7 +19,9 @@ const siteMetadata = {
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
   threads: 'https://www.threads.net',
-  instagram: 'https://www.instagram.com',
+  instagram: 'https://www.instagram.com/sa_travelcations_/',
+  tiktok: 'https://www.tiktok.com/@satravelcations_',
+  whatsapp: '078389200',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
